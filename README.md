@@ -5,7 +5,7 @@
 
 This is a really awesome
 
-**Now** Updating README file also a branch.
+*Now updating new read-me file*
 
 
 ## Download or Print

@@ -1,10 +1,6 @@
 # Initializr - Documentation
 
-
-
-Updated Locally
-
-*Now updating new read-me file*
+Update made on master on Github before rebase
 
 
 ## Download or Print
